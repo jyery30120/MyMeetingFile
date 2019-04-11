@@ -1,2 +1,3 @@
-®Ú¾ÚLee Mengºô¯¸¶]¥X¨Óªºµ{¦¡ 
+æ ¹æ“šLee Mengç¶²ç«™è·‘å‡ºä¾†çš„ç¨‹å¼
+
 https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html
