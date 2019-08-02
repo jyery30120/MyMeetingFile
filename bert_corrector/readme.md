@@ -3,7 +3,7 @@ README
 
 就...MASK每個字 猜字跟概率取前五個 因為第五個之後概率通常極小就不取了
 
-拿這篇改的 作為咪挺進度的報告 感謝LeeMeng大大
+拿這篇改的 感謝LeeMeng大大  
 https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html
 
 ## 說明
