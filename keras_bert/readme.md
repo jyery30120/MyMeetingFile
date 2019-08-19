@@ -106,7 +106,7 @@ vocab_path = os.path.join(pretrained_path, 'vocab.txt')
 然後...可以看到建議的字的部分有改變
 但錯字率反而變更高
 
-BERT 的模型：預測錯字數目: 40
+BERT 的模型：預測錯字數目: 40  
 自己訓練的模型：預測錯字數目: 42
 
 列為未來改進方向
