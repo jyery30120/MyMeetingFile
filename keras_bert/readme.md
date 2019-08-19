@@ -31,7 +31,9 @@ keras_bert.ipynb 是套用模型及錯字偵測的小程式
 暫時用Keras-BERT  
 原因：Keras-BERT 有明確的load model方法，PyTorch暫時沒找到如何load自己訓練完的model的方法
 
-Pretrain：跑Google Bert( https://github.com/google-research/bert )下面兩支程式
+Pretrain：   
+跑Google Bert( https://github.com/google-research/bert )下面兩支程式   
+應該要先把整包Bert程式碼下載下來才能跑下面兩支
 
 ```shell
 python create_pretraining_data.py \
